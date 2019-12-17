@@ -1,5 +1,5 @@
 # neurolabware_scanbox_utils_docs
-Collected code, issues and wisdom on the Neurolabware Mesoscope and ScanBox software
+Collected code, issues and experiences about the Neurolabware Mesoscope multiphoton imaging platform and ScanBox software
 
 ## Official docs
 - http://neurolabware.com/
