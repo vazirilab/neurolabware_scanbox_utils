@@ -12,4 +12,5 @@ Collected code, issues and experiences about the Neurolabware Mesoscope multipho
 - [ ] In mesoscopic panorama display window, accumulation can't be disabled, which would be required for acquisitions other than time series that don't include motor or remote focus motion
 
 ## Collected wisdom
-coming soon
+- There is no overcurrent protection of the PMTs, so the user has to make sure that bright lights are off during all acquisitions
+- to be continued...
