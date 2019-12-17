@@ -5,7 +5,7 @@ Collected code, issues and wisdom on the Neurolabware Mesoscope and ScanBox soft
 - http://neurolabware.com/
 - https://scanbox.org/
 
-# Known issues
+# Known issues with official ScanBox software / Mesoscope hardware
 - [ ] Occasionally, objective moves to some far-away position after end of focus
 - [ ] Optotune scheduling for z-stacks of mesoscopic panoramas not working: Optotune doesn't move
 - [ ] When turning Knobby control knobs fast in "Coarse" control mode, motion doesn't stop as soon as control knob rotation is stopped
