@@ -1,4 +1,4 @@
-function [x,myinfo] = sbxread(fname,k,varargin)
+function [x,myinfo] = sbxread_all(fname,k,varargin)
 
 % img = sbxread(fname,k,N,varargin)
 %
