@@ -10,6 +10,7 @@ Collected code, issues and experiences about the Neurolabware Mesoscope multipho
 - [ ] Optotune scheduling for z-stacks of mesoscopic panoramas not working: Optotune doesn't move
 - [ ] When turning Knobby control knobs fast in "Coarse" control mode, motion doesn't stop as soon as control knob rotation is stopped
 - [X] FIXED: In mesoscopic panorama display window, accumulation can't be disabled, which would be required for acquisitions other than time series that don't include motor or remote focus motion
+- [ ] See [NLW_mesoscope_wisdom.pptx](https://github.com/vazirilab/neurolabware_scanbox_utils_docs/blob/master/NLW_mesoscope_wisdom.pptx) for a lot more bugs and usability issues
 
 ## Collected wisdom
 - There is no overcurrent protection of the PMTs, so the user has to make sure that bright lights are off during all acquisitions
